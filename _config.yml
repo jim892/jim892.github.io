@@ -1,3 +1,3 @@
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-cayman
 title: MMAP by Jeff OConnell
 description: "MMAP (Mixed Model Analysis for Pedigrees & Populations) provides mixed-model analysis for genome-wide association studies. It has been retooled to use BLAS and LAPACK libraries. The current binary is compiled with the Intel Math Kernel library. To ensure compatibility only a static executable is currently available."
